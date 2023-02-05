@@ -14,6 +14,68 @@
 |-|-|-|-|-|
 ||||||
 
+<table>
+    <thead>
+        <tr>
+            <th>Front-End</th>
+            <th>Back-End</th>
+            <th>Database</th>
+            <th>Communication</th>
+            <th>O/S & Tool</th>
+            <th>Libraries</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></br>
+                <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></br>
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></br>
+                <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/><br/>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></br>
+                <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/><br/>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/><br/>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br/>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/><br/>
+            </td>
+            <td>
+                <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/React_Helmet-aaaaaa?style=flat-square&logo=ReactHelmet&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=Lodash&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Day.js-FF6550?style=flat-square&logo=Day.js&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Multer-aaaaaa?style=flat-square&logo=Multer&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Cookie_parser-aaaaaa?style=flat-square&logo=Cookie_parser&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Body_parser-aaaaaa?style=flat-square&logo=Body_parser&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/mysql2-aaaaaa?style=flat-square&logo=mysql2&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Mysql_session-aaaaaa?style=flat-square&logo=Mysql_session&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/MyBatis-aaaaaa?style=flat-square&logo=MyBatis&logoColor=white"/><br/>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 ### Front-End
 
 <table>
