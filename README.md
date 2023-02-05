@@ -10,69 +10,74 @@
 |Tel. 010-4944-6988<br />Email. sqhtjs0104@gmail.com|- 백석대학교 소프트웨어학과<br />- 노마드 코더 클론코딩<br />- 이젠 아카데미 풀스택 과정|- 카카오톡 클론코딩<br />- 웹 사이트 클론코딩<br />- 날씨 별 음식 추천 프로젝트<br />- 카카오 맵 장소 후기 프로젝트
 
 ## Skill
-
 <table>
-    <thead>
-        <tr>
-            <th>Front-End</th>
-            <th>Back-End</th>
-            <th>Database</th>
-            <th>Communication</th>
-            <th>O/S & Tool</th>
-            <th>Libraries</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                [<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>](#htmlcss)<br/>
-                [<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>](#)<br/>
-            </td>
-            <td>
-                [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>](#)<br/>
-            </td>
-            <td>
-                [<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>](#)<br/>
-            </td>
-            <td>
-                [<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>](#)<br/>
-            </td>
-            <td>
-                [<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>](#)<br/>
-            </td>
-            <td>
-                [<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/React_Helmet-aaaaaa?style=flat-square&logo=ReactHelmet&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=Lodash&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Day.js-FF6550?style=flat-square&logo=Day.js&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Multer-aaaaaa?style=flat-square&logo=Multer&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Cookie_parser-aaaaaa?style=flat-square&logo=Cookie_parser&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Body_parser-aaaaaa?style=flat-square&logo=Body_parser&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/mysql2-aaaaaa?style=flat-square&logo=mysql2&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Mysql_session-aaaaaa?style=flat-square&logo=Mysql_session&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/MyBatis-aaaaaa?style=flat-square&logo=MyBatis&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/Node_thumbnail-aaaaaa?style=flat-square&logo=Node_thumbnail&logoColor=white"/>](#)<br/>
-                [<img src="https://img.shields.io/badge/winston-aaaaaa?style=flat-square&logo=winston&logoColor=white"/>](#)<br/>
-            </td>
-        </tr>
-    </tbody>
+<thead>
+<tr>
+<th>Front-End</th>
+<th>Back-End</th>
+<th>Database</th>
+<th>Communication</th>
+<th>O/S & Tool</th>
+<th>Libraries</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>](#htmlcss)<br/>
+[<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>](#htmlcss)<br/>
+[<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>](#sass)<br/>
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>](#javascript1)<br/>
+[<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>](#reactjs)<br/>
+[<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>](#reactjs)<br/>
+</td>
+<td>
+
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>](#javascript2)<br/>
+[<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>](#reactjs)<br/>
+</td>
+<td>
+
+[<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>](#mysql)<br/>
+[<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>](#firebase)<br/>
+</td>
+<td>
+
+[<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>](#git)<br/>
+[<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>](#other)<br/>
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](#other)<br/>
+[<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>](#other)<br/>
+</td>
+<td>
+
+[<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>](#window)<br/>
+[<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>](#linux)<br/>
+[<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>](#vscode)<br/>
+</td>
+<td>
+
+[<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>](#javascript1)<br/>
+[<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>](#javascript1)<br/>
+[<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/>](#reactjs)<br/>
+[<img src="https://img.shields.io/badge/React_Helmet-aaaaaa?style=flat-square&logo=ReactHelmet&logoColor=white"/>](#reactjs)<br/>
+[<img src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=Lodash&logoColor=white"/>](#javascript1)<br/>
+[<img src="https://img.shields.io/badge/Day.js-FF6550?style=flat-square&logo=Day.js&logoColor=white"/>](#javascript1)<br/>
+[<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/Multer-aaaaaa?style=flat-square&logo=Multer&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/Cookie_parser-aaaaaa?style=flat-square&logo=Cookie_parser&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/Body_parser-aaaaaa?style=flat-square&logo=Body_parser&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/mysql2-aaaaaa?style=flat-square&logo=mysql2&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/Mysql_session-aaaaaa?style=flat-square&logo=Mysql_session&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/MyBatis-aaaaaa?style=flat-square&logo=MyBatis&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/Node_thumbnail-aaaaaa?style=flat-square&logo=Node_thumbnail&logoColor=white"/>](#nodejs)<br/>
+[<img src="https://img.shields.io/badge/winston-aaaaaa?style=flat-square&logo=winston&logoColor=white"/>](#nodejs)<br/>
+</td>
+</tr>
+</tbody>
 </table>
 
 
