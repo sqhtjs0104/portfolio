@@ -10,9 +10,6 @@
 |Tel. 010-4944-6988<br />Email. sqhtjs0104@gmail.com|- 백석대학교 소프트웨어학과<br />- 노마드 코더 클론코딩<br />- 이젠 아카데미 풀스택 과정|- 카카오톡 클론코딩<br />- 웹 사이트 클론코딩<br />- 날씨 별 음식 추천 프로젝트<br />- 카카오 맵 장소 후기 프로젝트
 
 ## Skill
-|Front-End|Back-End|Database|Server|Communication|
-|-|-|-|-|-|
-||||||
 
 <table>
     <thead>
@@ -70,6 +67,8 @@
                 <img src="https://img.shields.io/badge/mysql2-aaaaaa?style=flat-square&logo=mysql2&logoColor=white"/><br/>
                 <img src="https://img.shields.io/badge/Mysql_session-aaaaaa?style=flat-square&logo=Mysql_session&logoColor=white"/><br/>
                 <img src="https://img.shields.io/badge/MyBatis-aaaaaa?style=flat-square&logo=MyBatis&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/Node_thumbnail-aaaaaa?style=flat-square&logo=Node_thumbnail&logoColor=white"/><br/>
+                <img src="https://img.shields.io/badge/winston-aaaaaa?style=flat-square&logo=winston&logoColor=white"/><br/>
             </td>
         </tr>
     </tbody>
