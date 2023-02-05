@@ -25,51 +25,51 @@
     <tbody>
         <tr>
             <td>
-                <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></br>
-                <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></br>
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></br>
-                <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/><br/>
+                [<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>](#htmlcss)<br/>
+                [<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>](#)<br/>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></br>
-                <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/><br/>
+                [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>](#)<br/>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/><br/>
+                [<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>](#)<br/>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/><br/>
+                [<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>](#)<br/>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/><br/>
+                [<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>](#)<br/>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/React_Helmet-aaaaaa?style=flat-square&logo=ReactHelmet&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=Lodash&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Day.js-FF6550?style=flat-square&logo=Day.js&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Multer-aaaaaa?style=flat-square&logo=Multer&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Cookie_parser-aaaaaa?style=flat-square&logo=Cookie_parser&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Body_parser-aaaaaa?style=flat-square&logo=Body_parser&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/mysql2-aaaaaa?style=flat-square&logo=mysql2&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Mysql_session-aaaaaa?style=flat-square&logo=Mysql_session&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/MyBatis-aaaaaa?style=flat-square&logo=MyBatis&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/Node_thumbnail-aaaaaa?style=flat-square&logo=Node_thumbnail&logoColor=white"/><br/>
-                <img src="https://img.shields.io/badge/winston-aaaaaa?style=flat-square&logo=winston&logoColor=white"/><br/>
+                [<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/React_Helmet-aaaaaa?style=flat-square&logo=ReactHelmet&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Lodash-3492FF?style=flat-square&logo=Lodash&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Day.js-FF6550?style=flat-square&logo=Day.js&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat-square&logo=Nodemon&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square&logo=dotenv&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Multer-aaaaaa?style=flat-square&logo=Multer&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Cookie_parser-aaaaaa?style=flat-square&logo=Cookie_parser&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Body_parser-aaaaaa?style=flat-square&logo=Body_parser&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/mysql2-aaaaaa?style=flat-square&logo=mysql2&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Mysql_session-aaaaaa?style=flat-square&logo=Mysql_session&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/MyBatis-aaaaaa?style=flat-square&logo=MyBatis&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/Node_thumbnail-aaaaaa?style=flat-square&logo=Node_thumbnail&logoColor=white"/>](#)<br/>
+                [<img src="https://img.shields.io/badge/winston-aaaaaa?style=flat-square&logo=winston&logoColor=white"/>](#)<br/>
             </td>
         </tr>
     </tbody>
@@ -87,7 +87,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='5'><a>HTML5/CSS3</a></th>
+            <th rowspan='5'><a id='htmlcss'></a>HTML5/CSS3</th>
             <td>시멘틱 태그 활용 사이트 구조 형성</td>
             <td rowspan='5'>80</td>
         </tr>
@@ -97,7 +97,7 @@
         <tr><td>Naming Convention + Pseudo Selector</td></tr>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='3'>SCSS</th>
+            <th rowspan='3'><a id='sass'>SASS</th>
             <td>Mixin 및 Media query</td>
             <td rowspan='3'>60</td>
         </tr>
@@ -105,7 +105,7 @@
         <tr><td>애니메이션 및 Function 활용</td></tr>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='7'>Javascript</th>
+            <th rowspan='7'><a id='javascript1'>Javascript</th>
             <td>eventListner 이벤트 처리</td>
             <td rowspan='7'>90</td>
         </tr>
@@ -117,7 +117,7 @@
         <tr><td>Chart.js 그래프 표현</td></tr>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='6'>ReactJS</th>
+            <th rowspan='6'><a id='reactjs'>ReactJS</th>
             <td>Funtional Component 활용</td>
             <td rowspan='6'>80</td>
         </tr>
@@ -140,7 +140,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='5'>Javscript</th>
+            <th rowspan='5'><a id='javascript2'>Javscript</th>
             <td>Axios Restful API 제작 및 활용</td>
             <td rowspan='5'>80</td>
         </tr>
@@ -151,7 +151,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='14'>Node.js</th>
+            <th rowspan='14'><a id='nodejs'>Node.js</th>
             <td>dotenv 라이브러리 환경 변수 활용</td>
             <td rowspan='14'>70</td>
         </tr>
@@ -182,7 +182,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='2'>Window</th>
+            <th rowspan='2'><a id='window'>Window</th>
             <td>기본 O/S</td>
             <td rowspan='2'>70</td>
         </tr>
@@ -191,7 +191,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='4'>Linux(Mac)</th>
+            <th rowspan='4'><a id='linux'>Linux(Mac)</th>
             <td>Virtual machine 구동 경험</td>
             <td rowspan='4'>40</td>
         </tr>
@@ -202,7 +202,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th>Visual Studio Code</th>
+            <th><a id='vscode'>Visual Studio Code</th>
             <td>기본 개발 툴</td>
             <td>80</td>
         </tr>
@@ -220,7 +220,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='7'>MySQL</th>
+            <th rowspan='7'><a id='mysql'>MySQL</th>
             <td>기본 Database, table 생성 가능</td>
             <td rowspan='7'>50</td>
         </tr>
@@ -234,7 +234,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th>Firebase</th>
+            <th><a id='firebase'>Firebase</th>
             <td>API 온라인 컬렉션 프로젝트 활용 경험</td>
             <td>30</td>
         </tr>
@@ -252,7 +252,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='2'>Git/Github</th>
+            <th rowspan='2'><a id='git'>Git/Github</th>
             <td>기본 clone, remote, add, commit, push, full, branch, merge 명령 가능</td>
             <td rowspan='2'>70</td>
         </tr>
@@ -260,7 +260,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th>그 외</th>
+            <th><a id='other'>그 외</th>
             <td>Figma, Oven 활용 와이어프레임, 목업, 프로토타이핑 작업 경험</td>
             <td>40</td>
         </tr>
