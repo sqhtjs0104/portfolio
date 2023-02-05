@@ -43,15 +43,16 @@
         <tr><td>애니메이션 및 Function 활용</td></tr>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='6'>Javascript</th>
+            <th rowspan='7'>Javascript</th>
             <td>eventListner 이벤트 처리</td>
-            <td rowspan='6'>90</td>
+            <td rowspan='7'>90</td>
         </tr>
         <tr><td>ES5/ES6형 모듈 활용</td></tr>
         <tr><td>함수형/클래스형 모듈 활용</td></tr>
-        <tr><td>URL, Date 등 내장 라이브러리 활용</td></tr>
+        <tr><td>BOM 내장 객체 및 JS 기본 내장 라이브러리 활용</td></tr>
         <tr><td>동기 및 비동기 요청 처리</td></tr>
-        <tr><td>BOM 내장 객체 활용</td></tr>
+        <tr><td>lodash, 객체 복사 및 슬라이싱</td></tr>
+        <tr><td>Chart.js 그래프 표현</td></tr>
         <tr><td colspan='3'></td></tr>
         <tr>
             <th rowspan='6'>ReactJS</th>
@@ -74,6 +75,17 @@
             <th>항목</th><th>습득 능력</th><th>평가 ( / 100)</th>
         </tr>
     </thead>
+    <tbody>
+        <tr><td colspan='3'></td></tr>
+        <tr>
+            <th rowspan='5'>Javscript</th>
+            <td>Axios Restful API 제작 및 활용</td>
+            <td rowspan='5'>80</td>
+        </tr>
+        <tr><td>ES middleware module 제작</td></tr>
+        <tr><td>예외처리 및 정규표현식 검사</td></tr>
+        <tr><td>쿠키 및 세션 데이터 활용</td></tr>
+    </tbody>
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
