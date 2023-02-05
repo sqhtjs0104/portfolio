@@ -87,7 +87,7 @@
     <tbody>
         <tr><td colspan='3'></td></tr>
         <tr>
-            <th rowspan='5'>HTML5/CSS3</th>
+            <th rowspan='5'><a>HTML5/CSS3</a></th>
             <td>시멘틱 태그 활용 사이트 구조 형성</td>
             <td rowspan='5'>80</td>
         </tr>
