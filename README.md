@@ -272,7 +272,7 @@
     </tbody>
 </table>
 
-<div style='page-break-after: always; visibility: hidden;'>\pagebreak</div>
+<hr/>
 
 ## Project
 ### <a id='cheonanapp'></a>천안 감성 여행
