@@ -431,7 +431,7 @@ JSON Server, Live Server
 
 ![IMG](./image/7.PNG)
 ![IMG](./image/6.PNG)
-![IMG](./image/8.PNG)
+![IMG](./image/8.png)
 
 <table>
 <thead>
