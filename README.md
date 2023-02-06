@@ -272,6 +272,8 @@
     </tbody>
 </table>
 
+<div style='page-break-after:always;visibility:hidden;'>\pagebreak</div>
+
 ## Project
 ### <a id='cheonanapp'></a>천안 감성 여행
 > Android Studio와 Java 언어를 활용해 제작한 어플리케이션으로, 학교가 위치했던 천안의 관광지에 대한 소개를 목적으로 한 어플리케이션입니다.
@@ -304,6 +306,8 @@ Java, Android Studio
 학부 강의 프로젝트로 제작했던 어플리케이션 프로젝트입니다.
 
 프로젝트 내에 천안시청 홈페이지를 서브 페이지로 삽입하고, 관련 링크를 터치 이벤트로 연동해 기초적인 모바일 안드로이드 어플리케이션 구조를 실습하며 제작하였습니다.
+
+<hr/>
 
 ### <a id='kokoaclone'></a>카카오톡 클론 코딩
 > 노마드 코더 강의의 프로젝트로, HTML과 CSS, Javascript를 활용하여 웹 클론 카카오톡을 제작했습니다.
@@ -341,6 +345,8 @@ HTML, CSS, Javascript
 
 [카카오톡 클론 코딩 프로젝트 바로가기](https://github.com/sqhtjs0104/kokoaclone)
 
+<hr/>
+
 ### <a id='clonepages'></a>웹 페이지 클론 코딩
 > 이젠 아카데미 풀스택 수강 중 진행했던 세미 프로젝트로, 실제 서비스 중인 웹 사이트와 w3schoold의 예제 웹 사이트를 클론 코딩해보았습니다.
 
@@ -377,6 +383,8 @@ HTML, CSS, Javascript
 같은 형태의 구조더라도 float, flex 등 다양한 방면으로 시도하며 다양한 개발 방식을 축적했으며, 특히 img를 포함한 HTML Element와 CSS 적용 부문에서 많은 역량을 강화할 수 있었습니다.
 
 [웹 페이지 클론 코딩 바로가기](https://github.com/sqhtjs0104/clonepages)
+
+<hr/>
 
 ### <a id='recipe'></a>창밖의 레시피
 > 팀원과 함께 진행한 이젠 아카데미 프로젝트로, OpenAPI를 활용 현재 위치의 날씨와 시간을 기반으로 적절한 레시피 정보와 관련 유튜브 링크, 썸네일을 제공합니다.
@@ -425,6 +433,8 @@ JSON Server, Live Server
 하지만 OpenAPI를 활용해 개발 페이지에 다양한 시도를 적용해 볼 수 있었고, 서버와의 통신 규약, DB와 서버를 활용한 프로젝트의 확장 방안을 고안해 볼 수 있었던 경험이었습니다.
 
 [창밖의 레시피 바로가기](https://github.com/sqhtjs0104/recipe)
+
+<hr/>
 
 ### <a id='repl'></a>re_pl
 > 이젠 아카데미 최종 팀 프로젝트로, 사용자가 카카오 지도를 바탕으로 장소에 대한 후기와 평점, 게시판 글 등을 남길 수 있는 서비스입니다.
