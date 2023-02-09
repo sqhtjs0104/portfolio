@@ -7,7 +7,7 @@
 ## About Me
 |Contact|Education|Project|
 |-|-|-|
-|Tel. 010-4944-6988<br />Email. sqhtjs0104@gmail.com|- 백석대학교 소프트웨어학과<br />- 노마드 코더 클론코딩<br />- 이젠 아카데미 풀스택 과정|[천안 관광 앱](#cheonanapp)<br/>[카카오톡 클론코딩](#kokoaclone)<br />[웹 사이트 클론코딩](#clonepages)<br />[날씨 별 음식 추천 프로젝트](#recipe)<br />[카카오 맵 장소 후기 프로젝트](#repl)
+|Tel. 010-4944-6988<br />Email. sqhtjs0104@gmail.com|- 백석대학교 소프트웨어학과<br />- 노마드 코더 클론코딩<br />- 이젠 아카데미 풀스택 과정|[카카오 맵 장소 후기 프로젝트](#repl)<br/>[날씨 별 음식 추천 프로젝트](#recipe)<br />[웹 사이트 클론코딩](#clonepages)<br />[카카오톡 클론코딩](#kokoaclone)<br />[천안 관광 앱](#cheonanapp)
 
 ## Skill
 <table>
@@ -275,44 +275,12 @@
 <hr/>
 
 ## Project
-### <a id='cheonanapp'></a>천안 감성 여행
-> Android Studio와 Java 언어를 활용해 제작한 어플리케이션으로, 학교가 위치했던 천안의 관광지에 대한 소개를 목적으로 한 어플리케이션입니다.
+### <a id='repl'></a>re_pl
+> 이젠 아카데미 최종 팀 프로젝트로, 사용자가 카카오 지도를 바탕으로 장소에 대한 후기와 평점, 게시판 글 등을 남길 수 있는 서비스입니다.
 
-![IMG](./image/9.PNG)
-
-<table>
-<thead>
-<tr>
-<th>
-작업 기간
-</th>
-<th>
-사용 언어
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-2019.04.10 ~ 2019.05.15
-</td>
-<td>
-Java, Android Studio
-</td>
-</tr>
-</tbody>
-</table>
-
-학부 강의 프로젝트로 제작했던 어플리케이션 프로젝트입니다.
-
-프로젝트 내에 천안시청 홈페이지를 서브 페이지로 삽입하고, 관련 링크를 터치 이벤트로 연동해 기초적인 모바일 안드로이드 어플리케이션 구조를 실습하며 제작하였습니다.
-
-<hr/>
-
-### <a id='kokoaclone'></a>카카오톡 클론 코딩
-> 노마드 코더 강의의 프로젝트로, HTML과 CSS, Javascript를 활용하여 웹 클론 카카오톡을 제작했습니다.
-
-![IMG](./image/3.PNG)
+![IMG](./image/7.PNG)
+![IMG](./image/6.PNG)
+![IMG](./image/8.png)
 
 <table>
 <thead>
@@ -328,61 +296,34 @@ Java, Android Studio
 <tbody>
 <tr>
 <td>
-2022.03.09 ~ 2022.03.31
+2022.11.17 ~ 2023.01.31
 </td>
 <td>
-HTML, CSS, Javascript
+HTML, CSS, SASS, Javascript<br/>
+ReactJS, Redux, Node.js, Figma<br/>
+React - Router, Helmet, Modal, Classnames, CKEditor, Glider...<br/>
+Node - Express, Parsers, Dotenv, Nodemon, Multer, Mybatis...
 </td>
 </tr>
 </tbody>
 </table>
 
-최초로 수행했던 웹 프로젝트이자 클론 코딩이었습니다.
+4인이 협업하여 프로젝트 제안과 와이어프레임, 목업과 프로토타이핑, 프론트엔드와 백엔드 제작에 이르러 전반적인 과정을 팀 단위로 수행했던 프로젝트였습니다.
 
-다양한 디바이스 크기를 고려하며 반응형 웹에 대한 중요성과 경험을 획득.
+ReactJS와 Redux 중심의 JSX로 전반적인 프론트엔드 페이지를 분할 제작하였으며, Node.js Express와 MySQL Database를 연동해 풀스택 프로젝트를 제작하였습니다.
 
-화면 전환과 hover와 같은 여러 상태 효과, 애니메이션 등을 폭넓게 수련 가능했던 프로젝트였습니다.
+본인은 본 프로젝트에서 아래와 같은 임무를 수행했습니다.
+1) 게시판 및 장소 후기 페이지 제작
+2) 전체 Redux Slice 및 JSON Server data 파일 구조 형성 및 데이터 입출력
+3) Modal div 구현 및 관련 스크롤 처리, 각 페이지 Functional Compnent 제작
+4) 로그인 처리 및 Cookie 활용, 전체 페이지 Post 파라미터 Regex 처리
+5) 전체 Node.js 연동 및 전체 MySQL Database 처리
 
-[카카오톡 클론 코딩 프로젝트 바로가기](https://github.com/sqhtjs0104/kokoaclone)
+대부분의 프로젝트 내 처리가 학원 과정 중 수강과 더불어 제작해두었던 Helper 모듈들을 활용하였습니다. 이에 각 모듈이 어떠한 영역을 효율적으로 처리해줄 수 있는지, 어떠한 형식으로 실무에 가까운 코드 처리가 이루어지는지 끊임없이 고민하며 체득하는데 주안점을 두었습니다.
 
-<hr/>
+SPA를 제작하며 페이지 컴포넌트 간 어떠한 방식의 이동과 데이터 공유가 효율적일지, SEO를 위해 어떤 부분을 서브 라우팅 및 Helmet 처리를 해야 할지 등을 고민케 했던 프로젝트였습니다. 더불어 좋은 효율적인 Redux state 유지와 Node router 연결에 대한 중요성, Database 엔지니어의 필요성과 협업의 중요성 등 웹 서비스 개발 전반에 걸친 학습 영역을 확장 가능했던 프로젝트였습니다.
 
-### <a id='clonepages'></a>웹 페이지 클론 코딩
-> 이젠 아카데미 풀스택 수강 중 진행했던 세미 프로젝트로, 실제 서비스 중인 웹 사이트와 w3schoold의 예제 웹 사이트를 클론 코딩해보았습니다.
-
-실 서비스중인 예시 사이트 3종
-![IMG](./image/1.PNG)
-w3school 실습 예제 사이트 5종
-![IMG](./image/2.PNG)
-
-<table>
-<thead>
-<tr>
-<th>
-작업 기간
-</th>
-<th>
-사용 언어
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-2022.08.10 ~ 2022.09.20 (각 약 일주일)
-</td>
-<td>
-HTML, CSS, Javascript
-</td>
-</tr>
-</tbody>
-</table>
-
-주어진 페이지 구조 설계에 맞게 여러 페이지를 제작해보고, 실제 서비스 중인 페이지를 따라 제작하는 클론 코딩 과정을 통해 실용적이며 구조적인 웹 코딩 능력을 배양할 수 있었습니다.
-
-같은 형태의 구조더라도 float, flex 등 다양한 방면으로 시도하며 다양한 개발 방식을 축적했으며, 특히 img를 포함한 HTML Element와 CSS 적용 부문에서 많은 역량을 강화할 수 있었습니다.
-
-[웹 페이지 클론 코딩 바로가기](https://github.com/sqhtjs0104/clonepages)
+[Re_pl 바로가기](https://github.com/sqhtjs0104/re_pl)
 
 <hr/>
 
@@ -436,12 +377,13 @@ JSON Server, Live Server
 
 <hr/>
 
-### <a id='repl'></a>re_pl
-> 이젠 아카데미 최종 팀 프로젝트로, 사용자가 카카오 지도를 바탕으로 장소에 대한 후기와 평점, 게시판 글 등을 남길 수 있는 서비스입니다.
+### <a id='clonepages'></a>웹 페이지 클론 코딩
+> 이젠 아카데미 풀스택 수강 중 진행했던 세미 프로젝트로, 실제 서비스 중인 웹 사이트와 w3schoold의 예제 웹 사이트를 클론 코딩해보았습니다.
 
-![IMG](./image/7.PNG)
-![IMG](./image/6.PNG)
-![IMG](./image/8.png)
+실 서비스중인 예시 사이트 3종
+![IMG](./image/1.PNG)
+w3school 실습 예제 사이트 5종
+![IMG](./image/2.PNG)
 
 <table>
 <thead>
@@ -457,31 +399,89 @@ JSON Server, Live Server
 <tbody>
 <tr>
 <td>
-2022.11.17 ~ 2023.01.31
+2022.08.10 ~ 2022.09.20 (각 약 일주일)
 </td>
 <td>
-HTML, CSS, SASS, Javascript<br/>
-ReactJS, Redux, Node.js, Figma<br/>
-React - Router, Helmet, Modal, Classnames, CKEditor, Glider...<br/>
-Node - Express, Parsers, Dotenv, Nodemon, Multer, Mybatis...
+HTML, CSS, Javascript
 </td>
 </tr>
 </tbody>
 </table>
 
-4인이 협업하여 프로젝트 제안과 와이어프레임, 목업과 프로토타이핑, 프론트엔드와 백엔드 제작에 이르러 전반적인 과정을 팀 단위로 수행했던 프로젝트였습니다.
+주어진 페이지 구조 설계에 맞게 여러 페이지를 제작해보고, 실제 서비스 중인 페이지를 따라 제작하는 클론 코딩 과정을 통해 실용적이며 구조적인 웹 코딩 능력을 배양할 수 있었습니다.
 
-ReactJS와 Redux 중심의 JSX로 전반적인 프론트엔드 페이지를 분할 제작하였으며, Node.js Express와 MySQL Database를 연동해 풀스택 프로젝트를 제작하였습니다.
+같은 형태의 구조더라도 float, flex 등 다양한 방면으로 시도하며 다양한 개발 방식을 축적했으며, 특히 img를 포함한 HTML Element와 CSS 적용 부문에서 많은 역량을 강화할 수 있었습니다.
 
-본인은 본 프로젝트에서 아래와 같은 임무를 수행했습니다.
-1) 게시판 및 장소 후기 페이지 제작
-2) 전체 Redux Slice 및 JSON Server data 파일 구조 형성 및 데이터 입출력
-3) Modal div 구현 및 관련 스크롤 처리, 각 페이지 Functional Compnent 제작
-4) 로그인 처리 및 Cookie 활용, 전체 페이지 Post 파라미터 Regex 처리
-5) 전체 Node.js 연동 및 전체 MySQL Database 처리
+[웹 페이지 클론 코딩 바로가기](https://github.com/sqhtjs0104/clonepages)
 
-대부분의 프로젝트 내 처리가 학원 과정 중 수강과 더불어 제작해두었던 Helper 모듈들을 활용하였습니다. 이에 각 모듈이 어떠한 영역을 효율적으로 처리해줄 수 있는지, 어떠한 형식으로 실무에 가까운 코드 처리가 이루어지는지 끊임없이 고민하며 체득하는데 주안점을 두었습니다.
+<hr/>
 
-SPA를 제작하며 페이지 컴포넌트 간 어떠한 방식의 이동과 데이터 공유가 효율적일지, SEO를 위해 어떤 부분을 서브 라우팅 및 Helmet 처리를 해야 할지 등을 고민케 했던 프로젝트였습니다. 더불어 좋은 효율적인 Redux state 유지와 Node router 연결에 대한 중요성, Database 엔지니어의 필요성과 협업의 중요성 등 웹 서비스 개발 전반에 걸친 학습 영역을 확장 가능했던 프로젝트였습니다.
+### <a id='kokoaclone'></a>카카오톡 클론 코딩
+> 노마드 코더 강의의 프로젝트로, HTML과 CSS, Javascript를 활용하여 웹 클론 카카오톡을 제작했습니다.
 
-[Re_pl 바로가기](https://github.com/sqhtjs0104/re_pl)
+![IMG](./image/3.PNG)
+
+<table>
+<thead>
+<tr>
+<th>
+작업 기간
+</th>
+<th>
+사용 언어
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+2022.03.09 ~ 2022.03.31
+</td>
+<td>
+HTML, CSS, Javascript
+</td>
+</tr>
+</tbody>
+</table>
+
+최초로 수행했던 웹 프로젝트이자 클론 코딩이었습니다.
+
+다양한 디바이스 크기를 고려하며 반응형 웹에 대한 중요성과 경험을 획득.
+
+화면 전환과 hover와 같은 여러 상태 효과, 애니메이션 등을 폭넓게 수련 가능했던 프로젝트였습니다.
+
+[카카오톡 클론 코딩 프로젝트 바로가기](https://github.com/sqhtjs0104/kokoaclone)
+
+<hr/>
+
+### <a id='cheonanapp'></a>천안 감성 여행
+> Android Studio와 Java 언어를 활용해 제작한 어플리케이션으로, 학교가 위치했던 천안의 관광지에 대한 소개를 목적으로 한 어플리케이션입니다.
+
+![IMG](./image/9.PNG)
+
+<table>
+<thead>
+<tr>
+<th>
+작업 기간
+</th>
+<th>
+사용 언어
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+2019.04.10 ~ 2019.05.15
+</td>
+<td>
+Java, Android Studio
+</td>
+</tr>
+</tbody>
+</table>
+
+학부 강의 프로젝트로 제작했던 어플리케이션 프로젝트입니다.
+
+프로젝트 내에 천안시청 홈페이지를 서브 페이지로 삽입하고, 관련 링크를 터치 이벤트로 연동해 기초적인 모바일 안드로이드 어플리케이션 구조를 실습하며 제작하였습니다.
